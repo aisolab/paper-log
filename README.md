@@ -1,15 +1,15 @@
 # paper-log
 
-[![opened-issue-badge](https://img.shields.io/github/issues/codertimo/paper-log)](https://github.com/codertimo/paper-log/issues)
-[![closed-issue-badge](https://img.shields.io/github/issues-closed/codertimo/paper-log)](https://github.com/codertimo/paper-log/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+)
+[![opened-issue-badge](https://img.shields.io/github/issues/aisolab/paper-log)](https://github.com/aisolab/paper-log/issues)
+[![closed-issue-badge](https://img.shields.io/github/issues-closed/aisolab/paper-log)](https://github.com/aisolab/paper-log/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+)
 
 ## 소개 👋
 
-> **전체 논문 리스트는 [issue tab](https://github.com/codertimo/paper-log/issues)에서 보실 수 있습니다!**
+> **전체 논문 리스트는 [issue tab](https://github.com/aisolab/paper-log/issues)에서 보실 수 있습니다!**
 
 ### 어떤 목적으로 만든 레포인가요? 🤔
 
-[paper-log](https://github.com/codertimo/paper-log) 는 읽어야 할 논문들을 리스트업 하고, 각 논문을 읽으면서 배운 점들을 기록하는 데에 목적이 있습니다.
+[paper-log](https://github.com/aisolab/paper-log) 는 읽어야 할 논문들을 리스트업 하고, 각 논문을 읽으면서 배운 점들을 기록하는 데에 목적이 있습니다.
 
 ### 각 issue 는 어떤 정보를 담고 있나요? ✏️
 
@@ -19,7 +19,7 @@
 
 ### 지금은 어떤 논문들을 읽고 있으신가요? 📖
 
-논문을 읽는 스케줄은 [Reading Schedule](https://github.com/codertimo/paper-log/projects/1) 에서 확인하실 수 있습니다.
+논문을 읽는 스케줄은 [Reading Schedule](https://github.com/aisolab/paper-log/projects/1) 에서 확인하실 수 있습니다.
 
 모든 논문의 우선순위를 정렬하기는 어려워서, 바로 다음에 읽어야 할 **5개의 논문**만 뽑아 큐를 채우고 있습니다.
 
